@@ -1,16 +1,13 @@
-## Hi there 👋
+# Niloufar Nasseri — Applied Data & Design
 
-<!--
-**nilounaseri/nilounaseri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub serves as a curated space for selected technical explorations.
 
-Here are some ideas to get you started:
+My recent work focuses on:
+- Data-driven design and applied research
+- Human-centered AI systems
+- Ethical and responsible technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some projects (including academic and client-based work) are not publicly available due to confidentiality.
+I am happy to discuss these projects and share technical details during an interview.
+
+This space will be gradually updated with open experiments and learning projects.
