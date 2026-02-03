@@ -1,4 +1,4 @@
-# Niloufar Nasseri — Applied Data & Design
+# Niloufar Naseri — Applied Data & Design
 
 This GitHub serves as a curated space for selected technical explorations.
 
